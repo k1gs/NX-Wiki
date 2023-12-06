@@ -21,7 +21,7 @@ A collection of all current guides on the Nintendo switch™️
 
 
 # Благодарности
-Люди принимавшие участие в создании/редактировании: **Propinbo, Metro-2012, Kir kapez, Serj K, dyspire, Dolphinnik** ( надеюсь список будет пополняться =) )
+Люди принимавшие участие в создании/редактировании: **Propinbo, Metro-2012, Kir kapez, Serj K, dyspire, Dolphinnik, mailigorua** ( надеюсь список будет пополняться =) )
 
 Так же **Спасибо вам за то что читаете вики**, это мотивирует меня продолжать работу на ним  
 
