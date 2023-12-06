@@ -4,6 +4,7 @@ A collection of all current guides on the Nintendo switch™️
 
 ![](https://i.imgur.com/G7VItmh.png)
 
+
 **Чтобы прейти в раздел с самими гайдами, воспользуйтесь вкладкой **[wiki](https://github.com/k1gs/NSX-Wiki-/wiki)****
 
 
@@ -49,4 +50,6 @@ A collection of all current guides on the Nintendo switch™️
 [Telegram](https://t.me/k1gsss)
 
 Discord - _keggs
+
+[Источник пикчи](https://www.youtube.com/watch?v=hPVx7IazcEw&pp=ygUJc3RhcmxpZ2h0)
 
