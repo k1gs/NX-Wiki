@@ -1,4 +1,4 @@
-# NSX-Wiki
+# NX-Wiki
 A collection of all current guides on the Nintendo switch™️
 
 
