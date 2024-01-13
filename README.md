@@ -47,13 +47,9 @@ A collection of all current guides on the Nintendo switch™️
 
 **Metro-2012 - Правки/помощь с вики**
 
-**Kir kapez - Написание гайда по 4IFIR'у/восстановленю сейвов с ломаного эмунанда**
-
 **Serj K - Внесение правок/помощь с вики**
 
 **dyspire - Внесение правок в вики**
-
-**Dolphinnik - Написание гайда по haku33**
 
 **mailigorua - Правки в глоссарии/вики**
 
